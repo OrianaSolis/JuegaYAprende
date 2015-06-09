@@ -1,0 +1,31 @@
+.titulo1 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 36px;
+	font-style: oblique;
+	font-weight: bold;
+	color: #36C;
+}
+.NOMBRE {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-style: oblique;
+	font-weight: normal;
+	color: #000;
+}
+.NOMBRES {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 36px;
+	font-style: italic;
+	font-weight: bold;
+	color: #999;
+}
+
+
+.tit2 {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 36px;
+	font-style: italic;
+	font-variant: normal;
+	color: #FFF;
+	font-weight: bold;
+}
